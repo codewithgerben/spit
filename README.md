@@ -1,9 +1,6 @@
 # SPIT (Spring Boot Inspection Toolkit)
 
-**SPIT** is an open-source collection of Bash scripts designed to inspect and analyze Spring Boot codebases. It assists developers in identifying code smells, unused configurations, dependency issues, and runtime risks within modern Java microservices. Each script in the toolkit focuses on a specific inspection area, allowing for modular usage and seamless integration into automation workflows.
-
-This is the **Split Scripts Edition**, where each script focuses on a specific inspection area for modular usage and automation.
-
+**SPIT** is an open-source collection of Bash scripts designed to inspect and analyze Spring Boot codebases. It assists developers in identifying code smells, unused configurations, dependency issues, and runtime risks within modern Java microservices build with Spring Boot. Each script in the toolkit focuses on a specific inspection area, allowing for modular usage and seamless integration into automation workflows.
 ---
 
 ## 🔧 Scripts Overview
