@@ -16,6 +16,7 @@ This is the **Split Scripts Edition**, where each script focuses on a specific i
 | `spit_dependency_updates.sh`     | Checks for outdated dependencies via build files like `pom.xml` or `build.gradle`. |
 | `spit_external_calls.sh`         | Maps external HTTP and messaging system calls, including APIs and queues. |
 | `spit_format_check.sh`           | Checks code formatting using tools like `spotless`, `google-java-format`, or custom linters. |
+| `spit_test_analysis.sh`          | Analyzes test coverage, test structure, and identifies flaky or long-running tests. |
 | `spit_unused_dependencies.sh`    | Identifies unused Maven or Gradle dependencies, reducing build bloat. |
 
 ---
